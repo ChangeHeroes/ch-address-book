@@ -13,7 +13,7 @@
 
 5. BONUS: Use the ng-router directive, pulled in using npm.
 
-6. BONUS+: use npm to instan `ui-router` and use it in place of `ng-router`;
+6. BONUS+: use npm to install `ui-router` and use it in place of `ng-router`;
 
 7. Send us a link to your repo to view it. DO NOT create a fork of this repo. Instead, make a copy of it.
 
